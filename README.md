@@ -1,0 +1,1 @@
+This is a training project for a basic introduction to the principles of working with the pygame library. A simple project that will help you understand the basic principles of working with the python language. You can find a full breakdown and manual on writing this project on the YouTube channel @gortim-it in this video.
